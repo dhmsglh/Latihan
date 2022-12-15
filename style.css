@@ -12,7 +12,7 @@ body {
 .navbar{
     background-color: rgb(255, 255, 255);
     border-radius: 0 0 30px 30px;
-    
+   
     
 }
 
@@ -68,6 +68,12 @@ nav.navbar.navbar-dark .container-fluid button:hover{
   transform-origin: bottom left;
 }
 
+
+.menu{
+
+  position: static;
+  
+}
 .home{
   width: 100%;
   position: relative;
