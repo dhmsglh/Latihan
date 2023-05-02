@@ -35,6 +35,10 @@ nav.navbar.navbar-dark .container-fluid button:hover{
   height: 100px;
 }
 
+.navbar button{
+  cursor: pointer;
+} 
+
 .collapse .nav-item .nav-link{
   position: relative;
   text-decoration: none;
